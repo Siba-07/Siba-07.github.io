@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Homepage
 
 # Your name to show in the footer
-author: Some Person
+author: Sibasis Nayak
 
 # --- List of links in the navigation bar --- #
 
@@ -39,18 +39,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "sibasisnayak07@gmail.com"
+  facebook: sibasis.nayak.98
+  github: Siba-07
+#  twitter: daattali
+# patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: sibasis-nayak-a05427192
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: nyk_siba
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
