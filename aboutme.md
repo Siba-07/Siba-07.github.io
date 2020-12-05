@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A curious existence
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Heya Fellas, 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I know I am here on the other side
+- I know you are there on this side
+
+What else does this small world of ours need.
 
 What else do you need?
 
-### My story
+### This is me
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Well I am someone, who should not be named.
