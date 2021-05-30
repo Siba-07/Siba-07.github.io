@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ed",
+				"endl"
+			],
+			[
+				"edn",
+				"endl"
+			],
+			[
+				"E",
+				"endl"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"perc",
+				"percx"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"per",
+				"percy"
+			],
+			[
+				"this",
+				"thisisfile"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"cli",
+				"clientHeight"
+			],
+			[
+				"np",
+				"numpy"
+			],
+			[
+				"mu",
+				"mu_cubic"
+			],
+			[
+				"sd",
+				"sd_cubic"
+			],
+			[
+				"delay",
+				"delays"
+			],
+			[
+				"En",
+				"endl"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"tras",
+				"transform\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"Roboto-",
+				"Roboto-Bold"
+			],
+			[
+				"Image",
+				"ImageFont"
+			],
+			[
+				"mas",
+				"mask_im"
+			],
+			[
+				"dest",
+				"dest-1"
+			],
+			[
+				"start",
+				"start-1"
+			],
+			[
+				"ed",
+				"edgemin"
+			],
+			[
+				"de",
+				"dest-1"
+			],
+			[
+				"star",
+				"start-1"
+			],
+			[
+				"R",
+				"R"
+			],
+			[
+				"en",
+				"endl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sibasis/Downloads/submission/assmtobin.py",
+		"/Users/sibasis/Downloads/submission-1/ALU.vhd",
+		"/Users/sibasis/Desktop/Siba-07.github.io/_config.yml",
+		"/Users/sibasis/Downloads/submission-1/controller.vhd",
+		"/Users/sibasis/Downloads/submission-1/datapath.vhd",
+		"/Users/sibasis/Downloads/submission/memory.vhd",
+		"/Users/sibasis/Downloads/submission/datapath.vhd",
+		"/Users/sibasis/Downloads/titanic/test.csv",
+		"/Users/sibasis/Desktop/AdAI/autogen/auto.py",
+		"/Users/sibasis/Desktop/ed",
+		"/Users/sibasis/Desktop/cribs",
+		"/Users/sibasis/Desktop/FgSegNet/FgSegNet/FgSegNet_M_S_CDnet.py",
+		"/Users/sibasis/Desktop/new/FgSegNet/FgSegNet/FgSegNet_M_S_CDnet.py",
+		"/Users/sibasis/Desktop/AdAI/autogen/auto-sel/sel.htm",
+		"/Users/sibasis/Desktop/kk.json",
+		"/Users/sibasis/Downloads/siox4java/INSTALL",
+		"/Users/sibasis/Desktop/cp.cpp",
+		"/Users/sibasis/Desktop/AdAI/autogen/siba.py",
+		"/Users/sibasis/Desktop/metamaskwallet.txt",
+		"/Users/sibasis/Desktop/VM_shared/Lab6/DFlipFlop.vhd",
+		"/Users/sibasis/Desktop/VM_shared/Files/TwoByOneMux.vhd",
+		"/Users/sibasis/Desktop/btt wallet.txt",
+		"/Users/sibasis/Desktop/CS754_Project/plot_channels.m",
+		"/Users/sibasis/Desktop/CS754_Project/test.m",
+		"/Users/sibasis/Desktop/CS754_Project/CHECKER/NikonD40_0034_mask.txt",
+		"/Users/sibasis/Desktop/CS754_Project/CHECKER/NikonD40_0032_color.txt",
+		"/Users/sibasis/Desktop/CS754_Project/CHECKER/NikonD40_0111_color.txt",
+		"/Users/sibasis/Desktop/CS754_Project/CHECKER/NikonD40_0001_color.txt",
+		"/Users/sibasis/Desktop/CS754_Project/groundtruth_568/description.txt",
+		"/Users/sibasis/Desktop/190050076_190050102_190050115/generate_graphs.py",
+		"/Users/sibasis/Desktop/190050076_190050102_190050115/README",
+		"/Users/sibasis/Desktop/ok.txt",
+		"/Users/sibasis/Desktop/190050076_190050102_190050115/script.sh",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/final.txt",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/f.txt",
+		"/Users/sibasis/Downloads/gen.py",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/plot.py",
+		"/Users/sibasis/Desktop/m.txt",
+		"/Users/sibasis/Desktop/190050076_190050102_190050115/send.txt",
+		"/Users/sibasis/Desktop/190050076_190050102_190050115/sender.c",
+		"/Users/sibasis/Desktop/190050076_190050102_190050115/receiver.c",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/receiver.c",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/script.sh",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/sender.c",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/thput.txt",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/recv.txt",
+		"/Users/sibasis/Desktop/CS754_Project/.gitignore",
+		"/Users/sibasis/Downloads/bagga/autorun.sh",
+		"/Users/sibasis/Downloads/bagga/server.c",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/compile.sh",
+		"/Users/sibasis/Downloads/autorun.sh",
+		"/Users/sibasis/Downloads/bagga/client.c",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/huh.c",
+		"/Users/sibasis/Desktop/cs252-networks-lab/6/codes/test.c",
+		"/Users/sibasis/Desktop/VM_shared/proj/carryGen.vhd",
+		"/Users/sibasis/Downloads/group_50/rl_encoder.vhd",
+		"/Users/sibasis/Downloads/group_50/ASCII_Read_test.vhd",
+		"/Users/sibasis/Downloads/hw4.tex",
+		"/Users/sibasis/Desktop/cs228/group_50/Q1(unsigned)/carryGen.vhd",
+		"/Users/sibasis/Desktop/cs228/group_50/Q1(unsigned)/Generator.vhd",
+		"/Users/sibasis/Desktop/cs228/group_50/Q1(unsigned)/EightbitKogStonAddSub.vhd",
+		"/Users/sibasis/Desktop/cs228/get.sh",
+		"/Users/sibasis/Desktop/ASCII_Read_test.vhd",
+		"/Users/sibasis/Desktop/rl_encoder.vhd",
+		"/Users/sibasis/Desktop/ok.vhd",
+		"/Users/sibasis/Downloads/autograder/p2.py",
+		"/Users/sibasis/Desktop/HS101/A3-190050056-190050115/code_Q2/q2.m",
+		"/Users/sibasis/Desktop/CS224/A3-190050056-190050115/code_Q2/q2.m",
+		"/Users/sibasis/Desktop/AdAI/autogen/auto-sel/styles.css",
+		"/Users/sibasis/Desktop/224lab4.txt",
+		"/Users/sibasis/Desktop/AdAI/autogen/auto-sel/style.css",
+		"/Users/sibasis/Downloads/190050076_190050102_190050115/sender.c",
+		"/Users/sibasis/Downloads/190050076_190050102_190050115/receiver.c",
+		"/Users/sibasis/Downloads/test_1/disconnect.py",
+		"/Users/sibasis/Downloads/disconnect (1).py",
+		"/Users/sibasis/Desktop/disconnect.py",
+		"/Users/sibasis/Downloads/test_1/test.py",
+		"/Users/sibasis/Downloads/test (1)/test.py",
+		"/Users/sibasis/Desktop/tut/fetch.py",
+		"/Users/sibasis/Desktop/tut/message.py",
+		"/Users/sibasis/Desktop/tut/mailing.py",
+		"/Users/sibasis/Downloads/PH grade calculator [Hanan Basheer].cp",
+		"/Users/sibasis/Desktop/new.py",
+		"/Users/sibasis/Downloads/A1Q2_Kanad/q2_overlap.m",
+		"/Users/sibasis/Downloads/A1_190050056_190050115/Q2/main.m",
+		"/Users/sibasis/Desktop/output.txt",
+		"/Users/sibasis/Desktop/input.txt",
+		"/Users/sibasis/.zshrc",
+		"/Users/sibasis/Desktop/a.py",
+		"/Users/sibasis/Desktop/stdc++.h",
+		"/Users/sibasis/Library/Application Support/Sublime Text 3/Packages/User/C++.sublime-build",
+		"/Users/sibasis/Desktop/out.txt",
+		"/Users/sibasis/Desktop/inp.txt",
+		"/Volumes/T7/Quartus/test.txt",
+		"/Volumes/T7/Quartus/installation.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++.sublime-build",
+	"project": "staticman.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/cp.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

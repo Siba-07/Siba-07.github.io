@@ -14,8 +14,9 @@ author: Sibasis Nayak
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Courses: "courses"
+  Resume: "/assets/resume.pdf"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -47,7 +48,7 @@ social-network-links:
 # patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin: sibasis-nayak-a05427192
+  # linkedin: sibasis-nayak-a05427192
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -79,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "sibasisnayak.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -223,6 +224,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor
 
 plugins:
   - jekyll-paginate

@@ -6,7 +6,29 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
-<div class="posts-list">
+<article>
+  <div class="pofile float-right">
+    <img class="img-fluid z-depth-1 rounded" src="{{ 'profile.jpeg' | prepend: '/assets/img/' | relative_url }}" width="200" height="200">
+  </div>
+  <div class="clearfix">
+      Hey, Nice to see you here.<br><br>
+      I am Sibasis, a second year undergrad at <a href="cse.iitb.ac.in">Department of Computer Science and Engineering</a> at the <a href="iitb.ac.in">Indian Institute Of Technology Bombay</a>. 
+
+      I am currently interning at Peter L. Reichertz Institute for Medical Informatics located at <a href= "https://www.tu-braunschweig.de/en/">TU Braunschweig</a> in a Human Pose Estimation research project under Prof. <a href="https://plri.de/en/team/thomas-deserno">Thomas Deserno</a>.<br>
+
+      <a href="courses">Here</a> are a list of courses I have been involved with.<br><br>
+
+      Non academically, I like almost all outdoor games and specifically indulge in a lot in football and cricket. I like to workout occasionally too <i> (Yeah! I am quite lazy) </i>. <a href="https://www.youtube.com/channel/UC_nfjMmJlJXrhl2xbP9wgRA">Here</a> is my favourite workout channel.<br><br>
+      Also I would like you to go through <a href="https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL">Lex Fridman</a>'s podcasts.<br> <br>
+      
+      In a non pandemic frame of world my address would have been <i>Hostel-6 IITB</i>, but now I am located at Bhubaneswar.<br>
+
+      <br><br>
+      Reach me through- <br>
+      {% include social-networks-links.html %}
+  </div>
+</article>
+<!-- <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
 
@@ -102,4 +124,4 @@ layout: page
   </li>
   {% endif %}
 </ul>
-{% endif %}
+{% endif %} -->
